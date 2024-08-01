@@ -9,4 +9,4 @@ I am using "chrome for testing" browser, can be installed directly from [https:/
 Also adjust the info.py file according to your system.
 
 ## How to run
-Open terminal, type python3 <filename> 
+Open terminal, type ``` python3 filename ```
